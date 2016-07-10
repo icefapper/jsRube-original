@@ -1,4 +1,6 @@
 # jsRube
+
+[![Join the chat at https://gitter.im/nenionoda/jsRube](https://badges.gitter.im/nenionoda/jsRube.svg)](https://gitter.im/nenionoda/jsRube?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A small, simple, and ridiculously fast parser for all versions of ECMAScript/Javascript, written in plain ECMAScript3, on which I have been working on and [off](https://github.com/nodejs/node/issues/5900) since September 2015.
 
 #Features
